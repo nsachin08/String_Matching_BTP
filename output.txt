@@ -1,0 +1,853 @@
+Reading 1 
+16382
+2049
+MATCH[1]:= 1 
+MATCH[10019]:= 1 
+Found : 2
+Reading 2 
+16382
+2049
+MATCH[3655]:= 1 
+MATCH[13673]:= 1 
+Found : 2
+Reading 3 
+16382
+2049
+MATCH[7309]:= 1 
+Found : 1
+Reading 4 
+16382
+2049
+MATCH[945]:= 1 
+MATCH[10963]:= 1 
+Found : 2
+Reading 5 
+16382
+2049
+MATCH[4599]:= 1 
+Found : 1
+Reading 6 
+16382
+2049
+MATCH[8253]:= 1 
+Found : 1
+Reading 7 
+16382
+2049
+MATCH[1889]:= 1 
+MATCH[11907]:= 1 
+Found : 2
+Reading 8 
+16382
+2049
+MATCH[5543]:= 1 
+Found : 1
+Reading 9 
+16382
+2049
+MATCH[9197]:= 1 
+Found : 1
+Reading 10 
+16382
+2049
+MATCH[2833]:= 1 
+MATCH[12851]:= 1 
+Found : 2
+Reading 11 
+16382
+2049
+MATCH[6487]:= 1 
+Found : 1
+Reading 12 
+16382
+2049
+MATCH[123]:= 1 
+MATCH[10141]:= 1 
+Found : 2
+Reading 13 
+16382
+2049
+MATCH[3777]:= 1 
+MATCH[13795]:= 1 
+Found : 2
+Reading 14 
+16382
+2049
+MATCH[7431]:= 1 
+Found : 1
+Reading 15 
+16382
+2049
+MATCH[1067]:= 1 
+MATCH[11085]:= 1 
+Found : 2
+Reading 16 
+16382
+2049
+MATCH[4721]:= 1 
+Found : 1
+Reading 17 
+16382
+2049
+MATCH[8375]:= 1 
+Found : 1
+Reading 18 
+16382
+2049
+MATCH[2011]:= 1 
+MATCH[12029]:= 1 
+Found : 2
+Reading 19 
+16382
+2049
+MATCH[5665]:= 1 
+Found : 1
+Reading 20 
+16382
+2049
+MATCH[9319]:= 1 
+Found : 1
+Reading 21 
+16382
+2049
+MATCH[2955]:= 1 
+MATCH[12973]:= 1 
+Found : 2
+Reading 22 
+16382
+2049
+MATCH[6609]:= 1 
+Found : 1
+Reading 23 
+16382
+2049
+MATCH[245]:= 1 
+MATCH[10263]:= 1 
+Found : 2
+Reading 24 
+16382
+2049
+MATCH[3899]:= 1 
+MATCH[13917]:= 1 
+Found : 2
+Reading 25 
+16382
+2049
+MATCH[7553]:= 1 
+Found : 1
+Reading 26 
+16382
+2049
+MATCH[1189]:= 1 
+MATCH[11207]:= 1 
+Found : 2
+Reading 27 
+16382
+2049
+MATCH[4843]:= 1 
+Found : 1
+Reading 28 
+16382
+2049
+MATCH[8497]:= 1 
+Found : 1
+Reading 29 
+16382
+2049
+MATCH[2133]:= 1 
+MATCH[12151]:= 1 
+Found : 2
+Reading 30 
+16382
+2049
+MATCH[5787]:= 1 
+Found : 1
+Reading 31 
+16382
+2049
+MATCH[9441]:= 1 
+Found : 1
+Reading 32 
+16382
+2049
+MATCH[3077]:= 1 
+MATCH[13095]:= 1 
+Found : 2
+Reading 33 
+16382
+2049
+MATCH[6731]:= 1 
+Found : 1
+Reading 34 
+16382
+2049
+MATCH[367]:= 1 
+MATCH[10385]:= 1 
+Found : 2
+Reading 35 
+16382
+2049
+MATCH[4021]:= 1 
+MATCH[14039]:= 1 
+Found : 2
+Reading 36 
+16382
+2049
+MATCH[7675]:= 1 
+Found : 1
+Reading 37 
+16382
+2049
+MATCH[1311]:= 1 
+MATCH[11329]:= 1 
+Found : 2
+Reading 38 
+16382
+2049
+MATCH[4965]:= 1 
+Found : 1
+Reading 39 
+16382
+2049
+MATCH[8619]:= 1 
+Found : 1
+Reading 40 
+16382
+2049
+MATCH[2255]:= 1 
+MATCH[12273]:= 1 
+Found : 2
+Reading 41 
+16382
+2049
+MATCH[5909]:= 1 
+Found : 1
+Reading 42 
+16382
+2049
+MATCH[9563]:= 1 
+Found : 1
+Reading 43 
+16382
+2049
+MATCH[3199]:= 1 
+MATCH[13217]:= 1 
+Found : 2
+Reading 44 
+16382
+2049
+MATCH[6853]:= 1 
+Found : 1
+Reading 45 
+16382
+2049
+MATCH[489]:= 1 
+MATCH[10507]:= 1 
+Found : 2
+Reading 46 
+16382
+2049
+MATCH[4143]:= 1 
+MATCH[14161]:= 1 
+Found : 2
+Reading 47 
+16382
+2049
+MATCH[7797]:= 1 
+Found : 1
+Reading 48 
+16382
+2049
+MATCH[1433]:= 1 
+MATCH[11451]:= 1 
+Found : 2
+Reading 49 
+16382
+2049
+MATCH[5087]:= 1 
+Found : 1
+Reading 50 
+16382
+2049
+MATCH[8741]:= 1 
+Found : 1
+Reading 51 
+16382
+2049
+MATCH[2377]:= 1 
+MATCH[12395]:= 1 
+Found : 2
+Reading 52 
+16382
+2049
+MATCH[6031]:= 1 
+Found : 1
+Reading 53 
+16382
+2049
+MATCH[9685]:= 1 
+Found : 1
+Reading 54 
+16382
+2049
+MATCH[3321]:= 1 
+MATCH[13339]:= 1 
+Found : 2
+Reading 55 
+16382
+2049
+MATCH[6975]:= 1 
+Found : 1
+Reading 56 
+16382
+2049
+MATCH[611]:= 1 
+MATCH[10629]:= 1 
+Found : 2
+Reading 57 
+16382
+2049
+MATCH[4265]:= 1 
+MATCH[14283]:= 1 
+Found : 2
+Reading 58 
+16382
+2049
+MATCH[7919]:= 1 
+Found : 1
+Reading 59 
+16382
+2049
+MATCH[1555]:= 1 
+MATCH[11573]:= 1 
+Found : 2
+Reading 60 
+16382
+2049
+MATCH[5209]:= 1 
+Found : 1
+Reading 61 
+16382
+2049
+MATCH[8863]:= 1 
+Found : 1
+Reading 62 
+16382
+2049
+MATCH[2499]:= 1 
+MATCH[12517]:= 1 
+Found : 2
+Reading 63 
+16382
+2049
+MATCH[6153]:= 1 
+Found : 1
+Reading 64 
+16382
+2049
+MATCH[9807]:= 1 
+Found : 1
+Reading 65 
+16382
+2049
+MATCH[3443]:= 1 
+MATCH[13461]:= 1 
+Found : 2
+Reading 66 
+16382
+2049
+MATCH[7097]:= 1 
+Found : 1
+Reading 67 
+16382
+2049
+MATCH[733]:= 1 
+MATCH[10751]:= 1 
+Found : 2
+Reading 68 
+16382
+2049
+MATCH[4387]:= 1 
+Found : 1
+Reading 69 
+16382
+2049
+MATCH[8041]:= 1 
+Found : 1
+Reading 70 
+16382
+2049
+MATCH[1677]:= 1 
+MATCH[11695]:= 1 
+Found : 2
+Reading 71 
+16382
+2049
+MATCH[5331]:= 1 
+Found : 1
+Reading 72 
+16382
+2049
+MATCH[8985]:= 1 
+Found : 1
+Reading 73 
+16382
+2049
+MATCH[2621]:= 1 
+MATCH[12639]:= 1 
+Found : 2
+Reading 74 
+16382
+2049
+MATCH[6275]:= 1 
+Found : 1
+Reading 75 
+16382
+2049
+MATCH[9929]:= 1 
+Found : 1
+Reading 76 
+16382
+2049
+MATCH[3565]:= 1 
+MATCH[13583]:= 1 
+Found : 2
+Reading 77 
+16382
+2049
+MATCH[7219]:= 1 
+Found : 1
+Reading 78 
+16382
+2049
+MATCH[855]:= 1 
+MATCH[10873]:= 1 
+Found : 2
+Reading 79 
+16382
+2049
+MATCH[4509]:= 1 
+Found : 1
+Reading 80 
+16382
+2049
+MATCH[8163]:= 1 
+Found : 1
+Reading 81 
+16382
+2049
+MATCH[1799]:= 1 
+MATCH[11817]:= 1 
+Found : 2
+Reading 82 
+16382
+2049
+MATCH[5453]:= 1 
+Found : 1
+Reading 83 
+16382
+2049
+MATCH[9107]:= 1 
+Found : 1
+Reading 84 
+16382
+2049
+MATCH[2743]:= 1 
+MATCH[12761]:= 1 
+Found : 2
+Reading 85 
+16382
+2049
+MATCH[6397]:= 1 
+Found : 1
+Reading 86 
+16382
+2049
+MATCH[33]:= 1 
+MATCH[10051]:= 1 
+Found : 2
+Reading 87 
+16382
+2049
+MATCH[3687]:= 1 
+MATCH[13705]:= 1 
+Found : 2
+Reading 88 
+16382
+2049
+MATCH[7341]:= 1 
+Found : 1
+Reading 89 
+16382
+2049
+MATCH[977]:= 1 
+MATCH[10995]:= 1 
+Found : 2
+Reading 90 
+16382
+2049
+MATCH[4631]:= 1 
+Found : 1
+Reading 91 
+16382
+2049
+MATCH[8285]:= 1 
+Found : 1
+Reading 92 
+16382
+2049
+MATCH[1921]:= 1 
+MATCH[11939]:= 1 
+Found : 2
+Reading 93 
+16382
+2049
+MATCH[5575]:= 1 
+Found : 1
+Reading 94 
+16382
+2049
+MATCH[9229]:= 1 
+Found : 1
+Reading 95 
+16382
+2049
+MATCH[2865]:= 1 
+MATCH[12883]:= 1 
+Found : 2
+Reading 96 
+16382
+2049
+MATCH[6519]:= 1 
+Found : 1
+Reading 97 
+16382
+2049
+MATCH[155]:= 1 
+MATCH[10173]:= 1 
+Found : 2
+Reading 98 
+16382
+2049
+MATCH[3809]:= 1 
+MATCH[13827]:= 1 
+Found : 2
+Reading 99 
+16382
+2049
+MATCH[7463]:= 1 
+Found : 1
+Reading 100 
+16382
+2049
+MATCH[1099]:= 1 
+MATCH[11117]:= 1 
+Found : 2
+Reading 101 
+16382
+2049
+MATCH[4753]:= 1 
+Found : 1
+Reading 102 
+16382
+2049
+MATCH[8407]:= 1 
+Found : 1
+Reading 103 
+16382
+2049
+MATCH[2043]:= 1 
+MATCH[12061]:= 1 
+Found : 2
+Reading 104 
+16382
+2049
+MATCH[5697]:= 1 
+Found : 1
+Reading 105 
+16382
+2049
+MATCH[9351]:= 1 
+Found : 1
+Reading 106 
+16382
+2049
+MATCH[2987]:= 1 
+MATCH[13005]:= 1 
+Found : 2
+Reading 107 
+16382
+2049
+MATCH[6641]:= 1 
+Found : 1
+Reading 108 
+16382
+2049
+MATCH[277]:= 1 
+MATCH[10295]:= 1 
+Found : 2
+Reading 109 
+16382
+2049
+MATCH[3931]:= 1 
+MATCH[13949]:= 1 
+Found : 2
+Reading 110 
+16382
+2049
+MATCH[7585]:= 1 
+Found : 1
+Reading 111 
+16382
+2049
+MATCH[1221]:= 1 
+MATCH[11239]:= 1 
+Found : 2
+Reading 112 
+16382
+2049
+MATCH[4875]:= 1 
+Found : 1
+Reading 113 
+16382
+2049
+MATCH[8529]:= 1 
+Found : 1
+Reading 114 
+16382
+2049
+MATCH[2165]:= 1 
+MATCH[12183]:= 1 
+Found : 2
+Reading 115 
+16382
+2049
+MATCH[5819]:= 1 
+Found : 1
+Reading 116 
+16382
+2049
+MATCH[9473]:= 1 
+Found : 1
+Reading 117 
+16382
+2049
+MATCH[3109]:= 1 
+MATCH[13127]:= 1 
+Found : 2
+Reading 118 
+16382
+2049
+MATCH[6763]:= 1 
+Found : 1
+Reading 119 
+16382
+2049
+MATCH[399]:= 1 
+MATCH[10417]:= 1 
+Found : 2
+Reading 120 
+16382
+2049
+MATCH[4053]:= 1 
+MATCH[14071]:= 1 
+Found : 2
+Reading 121 
+16382
+2049
+MATCH[7707]:= 1 
+Found : 1
+Reading 122 
+16382
+2049
+MATCH[1343]:= 1 
+MATCH[11361]:= 1 
+Found : 2
+Reading 123 
+16382
+2049
+MATCH[4997]:= 1 
+Found : 1
+Reading 124 
+16382
+2049
+MATCH[8651]:= 1 
+Found : 1
+Reading 125 
+16382
+2049
+MATCH[2287]:= 1 
+MATCH[12305]:= 1 
+Found : 2
+Reading 126 
+16382
+2049
+MATCH[5941]:= 1 
+Found : 1
+Reading 127 
+16382
+2049
+MATCH[9595]:= 1 
+Found : 1
+Reading 128 
+16382
+2049
+MATCH[3231]:= 1 
+MATCH[13249]:= 1 
+Found : 2
+Reading 129 
+16382
+2049
+MATCH[6885]:= 1 
+Found : 1
+Reading 130 
+16382
+2049
+MATCH[521]:= 1 
+MATCH[10539]:= 1 
+Found : 2
+Reading 131 
+16382
+2049
+MATCH[4175]:= 1 
+MATCH[14193]:= 1 
+Found : 2
+Reading 132 
+16382
+2049
+MATCH[7829]:= 1 
+Found : 1
+Reading 133 
+16382
+2049
+MATCH[1465]:= 1 
+MATCH[11483]:= 1 
+Found : 2
+Reading 134 
+16382
+2049
+MATCH[5119]:= 1 
+Found : 1
+Reading 135 
+16382
+2049
+MATCH[8773]:= 1 
+Found : 1
+Reading 136 
+16382
+2049
+MATCH[2409]:= 1 
+MATCH[12427]:= 1 
+Found : 2
+Reading 137 
+16382
+2049
+MATCH[6063]:= 1 
+Found : 1
+Reading 138 
+16382
+2049
+MATCH[9717]:= 1 
+Found : 1
+Reading 139 
+16382
+2049
+MATCH[3353]:= 1 
+MATCH[13371]:= 1 
+Found : 2
+Reading 140 
+16382
+2049
+MATCH[7007]:= 1 
+Found : 1
+Reading 141 
+16382
+2049
+MATCH[643]:= 1 
+MATCH[10661]:= 1 
+Found : 2
+Reading 142 
+16382
+2049
+MATCH[4297]:= 1 
+MATCH[14315]:= 1 
+Found : 2
+Reading 143 
+16382
+2049
+MATCH[7951]:= 1 
+Found : 1
+Reading 144 
+16382
+2049
+MATCH[1587]:= 1 
+MATCH[11605]:= 1 
+Found : 2
+Reading 145 
+16382
+2049
+MATCH[5241]:= 1 
+Found : 1
+Reading 146 
+16382
+2049
+MATCH[8895]:= 1 
+Found : 1
+Reading 147 
+16382
+2049
+MATCH[2531]:= 1 
+MATCH[12549]:= 1 
+Found : 2
+Reading 148 
+16382
+2049
+MATCH[6185]:= 1 
+Found : 1
+Reading 149 
+16382
+2049
+MATCH[9839]:= 1 
+Found : 1
+Reading 150 
+16382
+2049
+MATCH[3475]:= 1 
+MATCH[13493]:= 1 
+Found : 2
+Reading 151 
+16382
+2049
+MATCH[7129]:= 1 
+Found : 1
+Reading 152 
+16382
+2049
+MATCH[765]:= 1 
+MATCH[10783]:= 1 
+Found : 2
+Reading 153 
+16382
+2049
+MATCH[4419]:= 1 
+Found : 1
+Reading 154 
+16382
+2049
+MATCH[8073]:= 1 
+Found : 1
+Reading 155 
+16382
+2049
+MATCH[1709]:= 1 
+MATCH[11727]:= 1 
+Found : 2
+Reading 156 
+16382
+2049
+MATCH[5363]:= 1 
+Found : 1
+9016
+2049
+Found : 0
+Total Count Found :225
